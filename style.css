@@ -1,0 +1,86 @@
+.login-form
+ {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;;
+}
+
+.facebook_content h1 {
+    font-size: 60px;
+    color: #1877F2;
+    font-weight: bolder;
+}
+
+.facebook_content h3 {
+    color: #040404;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.login-form {
+    display: block;
+    width: 360px;
+    height:52px;
+    padding: 5px;
+    margin: 10px 0;
+    border-color: 1px solid #dbdbdb;
+    border-radius: 10px;
+    font-size: 17px;
+    width: 400px;
+    height: 350px;
+    background: #fff;
+    box-shadow: 0 0 5px 1px #979797;
+}
+
+.log_in {
+    width: 360px;
+    height: 50px;
+    background: #166FE5;
+    border-radius: 5px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.forgotten_ps {
+    padding: 10px;
+    color: #166FE5;
+}
+
+.Create_acc {
+    width: 176px;
+    height: 40px;
+    background: #37C45A;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.username {
+display: block;
+    width: 360px;
+    height:52px;
+    padding: 5px;
+    margin: 10px 0;
+    border-color: 1px solid #dbdbdb;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.password {
+    display: block;
+        width: 360px;
+        height:52px;
+        padding: 5px;
+        margin: 10px 0;
+        border-color: 1px solid #dbdbdb;
+        border-radius: 5px;
+        font-size: 17px;
+    }
